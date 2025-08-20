@@ -1,10 +1,10 @@
-# Treemap Visualization (Market Share Distribution)
+# Support Efficiency Analysis (Violin Plot)
 
-This repository contains a professional Treemap visualization created with [RAWGraphs](https://rawgraphs.io/).
+This repository contains a professional violin plot visualization created with **Seaborn**.
 
-- **Visualization**: Treemap
-- **Data**: Market share distribution across categories and subcategories
-- **Tool**: RAWGraphs
+- **Visualization**: Violin Plot
+- **Data**: Synthetic data simulating support resolution times across multiple support channels
+- **Tool**: Python (Seaborn, Matplotlib, Pandas, NumPy)
 - **Export Format**: PNG (512x512)
 
 ### Author
